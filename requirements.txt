@@ -6,5 +6,3 @@ streamlit
 numpy
 pytz
 plotly
-plotly.express
-plotly.graph_objects
